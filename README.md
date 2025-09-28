@@ -32,7 +32,7 @@ Android uygulamaları ve açık kaynak projeleri geliştiriyorum.
 ---
 
 ## 📈 GitHub İstatistikleri
-![Erol'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullaniciAdin&show_icons=true&theme=tokyonight)
+![Erol'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=veraildezz&show_icons=true&theme=tokyonight)
 
 ---
 
